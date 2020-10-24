@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc4a9c1-91e0-432f-b3fa-44d622bfc9c6" name="Default Changelist" comment="Polls app">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
@@ -37,6 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
@@ -56,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -102,7 +105,8 @@
       <updated>1603356291471</updated>
       <workItem from="1603356322709" duration="7870000" />
       <workItem from="1603425248529" duration="107000" />
-      <workItem from="1603433025696" duration="3861000" />
+      <workItem from="1603433025696" duration="6528000" />
+      <workItem from="1603525993265" duration="4919000" />
     </task>
     <task id="LOCAL-00001" summary="Polls app">
       <created>1603372528255</created>
@@ -118,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603372591833</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Polls app">
+      <created>1603455533476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603455533476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,10 +182,10 @@
       <screen x="0" y="23" width="1280" height="720" />
     </state>
     <state x="151" y="23" width="997" height="720" key="SettingsEditor/-1360.129.1360.745/0.23.1280.720@0.23.1280.720" timestamp="1603439175081" />
-    <state x="260" y="122" key="Vcs.Push.Dialog.v2" timestamp="1603374796345">
+    <state x="260" y="122" key="Vcs.Push.Dialog.v2" timestamp="1603455539799">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="260" y="122" key="Vcs.Push.Dialog.v2/-1360.129.1360.688/0.23.1280.777@0.23.1280.777" timestamp="1603374796345" />
+    <state x="260" y="122" key="Vcs.Push.Dialog.v2/-1360.129.1360.688/0.23.1280.777@0.23.1280.777" timestamp="1603455539799" />
     <state x="452" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603372642509">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

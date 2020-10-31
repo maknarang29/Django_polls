@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc4a9c1-91e0-432f-b3fa-44d622bfc9c6" name="Default Changelist" comment="Polls app">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
@@ -107,6 +106,9 @@
       <workItem from="1603425248529" duration="107000" />
       <workItem from="1603433025696" duration="6528000" />
       <workItem from="1603525993265" duration="4919000" />
+      <workItem from="1603541874484" duration="571000" />
+      <workItem from="1603683253973" duration="522000" />
+      <workItem from="1604131656408" duration="5040000" />
     </task>
     <task id="LOCAL-00001" summary="Polls app">
       <created>1603372528255</created>
@@ -162,6 +164,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Polls app" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="284" y="80" key="#Inspections" timestamp="1604135373506">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="284" y="80" key="#Inspections/-1360.129.1360.745/0.23.1280.720@0.23.1280.720" timestamp="1604135373506" />
     <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1603439224091">
       <screen x="0" y="23" width="1280" height="720" />
     </state>
